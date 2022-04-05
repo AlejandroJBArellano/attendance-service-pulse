@@ -1,0 +1,31 @@
+{
+  "name": "attendance-service-pulse",
+  "version": "1.0.0",
+  "description": "Runs as a node process service and listens for MQTT events to invoke an api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://humbertoinpulse@bitbucket.org/humbertoinpulse/attendance-service-pulse.git"
+  },
+  "keywords": [
+    "mqtt",
+    "iot"
+  ],
+  "author": "In Pulse",
+  "private": true,
+  "license": "SEE LICENCE IN license.txt",
+  "bugs": {
+    "url": "https://bitbucket.org/humbertoinpulse/attendance-service-pulse/issues"
+  },
+  "homepage": "https://bitbucket.org/humbertoinpulse/attendance-service-pulse#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "log": "^6.3.1",
+    "log-node": "^8.0.3",
+    "mqtt": "^4.3.7"
+  }
+}
