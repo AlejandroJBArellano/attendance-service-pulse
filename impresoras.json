@@ -1,0 +1,7 @@
+[
+    {"viewValue":"Lemon","value":"inpulse/cmd/pulses/lemon/print-label/print"},
+    {"viewValue":"Apple","value":"inpulse/cmd/pulses/apple/print-label/print"},
+    {"viewValue":"Fig","value":"inpulse/cmd/pulses/fig/print-label/print"},
+    {"viewValue":"Pear","value":"inpulse/cmd/pulses/pear/print-label/print"},
+    {"viewValue":"Mango","value":"inpulse/cmd/pulses/mango/print-label/print"}
+]

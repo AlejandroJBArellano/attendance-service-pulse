@@ -1,0 +1,9 @@
+[
+    {"tag_id":"661c67af","cmd":"CMD_READY"},
+    {"tag_id":"5cb7cc6d","cmd":"CMD_ADD_POINTS"},
+    {"tag_id":"842ad83f","cmd":"CMD_SUBSTRACT_POINTS"},
+    {"tag_id":"800ed83f","cmd":"CMD_SYNC"},
+    {"tag_id":"2960d83f","cmd":"CMD_SYNC"},
+    {"tag_id":"eceed73f","cmd":"CMD_SHOW_CONFIG"},
+    {"tag_id":"2671922f","cmd":"CMD_ADD_POINTS"}
+]
